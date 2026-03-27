@@ -49,7 +49,7 @@ A dark, sleek recipe finder app built with **Nuxt 3** and **Tailwind CSS**. Sear
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/nuxt-recipe-finder.git
+https://github.com/laetitia123/nuxt-recipe-finder-.git
 cd nuxt-recipe-finder
 ```
 
